@@ -11,7 +11,7 @@ interface taskProps {
   deleteTask: (id: string) => void,
 }
 
-export default function Task({id, content, isCompleted, completeTask, deleteTask}: taskProps) {
+export function Task({id, content, isCompleted, completeTask, deleteTask}: taskProps) {
 
   function handleCompleteTask(){
     completeTask(id) 

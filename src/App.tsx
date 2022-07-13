@@ -2,7 +2,7 @@ import { useState, FormEvent, ChangeEvent, InputHTMLAttributes } from 'react';
 import { PlusCircle } from 'phosphor-react';
 import {v4 as uuidv4} from 'uuid';
 
-import Task from './components/task/Task';
+import { Task } from './components/task/Task';
 import { Empty } from './components/empty/Empty';
 import logo from './assets/todo-logo.png';
 
