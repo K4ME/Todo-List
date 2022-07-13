@@ -1,0 +1,19 @@
+.taskContainer {
+  margin-top: 12px;
+  width: 40rem;
+  height: 4.5rem;
+  padding: 8px;
+  background: var(--gray-400);
+  border-radius: 8px;
+  border: 1px solid var(--gray-300);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.taskContainer button{
+  background: transparent;
+  border: 0;
+  color: var(--gray-300);
+}
