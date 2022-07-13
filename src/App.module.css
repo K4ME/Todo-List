@@ -30,7 +30,7 @@
   height: 3.375rem;
   padding: 1rem 1.5rem;
   background: var(--gray-400);
-  color: var(--gray-300);
+  color: var(--gray-100);
   border-radius: 8px;
   border: 0;
 }
@@ -65,17 +65,34 @@
 
 .createTask{
   width: 20rem;
+  color: var(--blue);
 
   display: flex;
   align-items: center;
   justify-content: flex-start;
 }
 
+.createTask span{
+  margin-left: 8px;
+  border-radius: 8px;
+  padding: 2px 8px;
+  background: var(--gray-400);
+  color: var(--gray-200);
+}
+
 .finishedTask{
   width: 20rem;
+  color: var(--purple);
 
   display: flex;
   align-items: center;
   justify-content: flex-end;
 }
 
+.finishedTask span{
+  margin-left: 8px;
+  border-radius: 8px;
+  padding: 2px 8px;
+  background: var(--gray-400);
+  color: var(--gray-200);
+}

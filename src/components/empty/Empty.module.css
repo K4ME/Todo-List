@@ -1,0 +1,19 @@
+.emptyContainer{
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.emptyContainer img{
+  margin-top: 32px;
+}
+
+.emptyContainer strong{
+  margin-top: 16px;
+}
+
+.emptyContainer span{
+  margin-top: 8px;
+}

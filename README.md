@@ -13,11 +13,10 @@ Go check it out: <a href="https://feedget-4cttv6k9w-k4me.vercel.app/"> Feedget <
 
 insert images
 
-<!-- <p align="center">
-  <img alt="feedback tips" src="./prints/tipos-feeback.png" width="240"/>
-  <img alt="getting error" src="./prints/Reportando-erro.png" width="240"/>
-  <img alt="Appreciate the feedback" src="./prints/agradecemos-o-feedback.png" width="240"/>
-</p> -->
+<p align="center">
+  <img alt="Empty List" src="./prints/Empty.png" width="360"/>
+  <img alt="List" src="./prints/List.png" width="360"/>
+</p>
 
 ## 🔖 Layout
 
@@ -32,6 +31,8 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vitejs](https://vitejs.dev/)
+- [Phosphor](https://phosphoricons.com/)
+- [uuid](https://www.npmjs.com/package/uuid)
 
 ## 💻 Getting started
 

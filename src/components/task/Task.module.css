@@ -17,3 +17,25 @@
   border: 0;
   color: var(--gray-300);
 }
+
+.taskContainer .buttonCompleted {
+  cursor: context-menu;
+}
+
+.taskContainer .buttonCompleted svg{
+  color: var(--purple);
+}
+
+.taskContainer .buttonNotCompleted {
+  background: transparent;
+  color: var(--blue);
+}
+
+.taskContainer .pNotCompleted {
+  color: var(--gray-100);
+}
+
+.taskContainer .pCompleted {
+  color: var(--gray-300);
+  text-decoration: line-through;
+}
