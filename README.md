@@ -14,8 +14,11 @@ Go check it out: <a href="https://feedget-4cttv6k9w-k4me.vercel.app/"> Feedget <
 insert images
 
 <p align="center">
-  <img alt="Empty List" src="./prints/Empty.png" width="360"/>
-  <img alt="List" src="./prints/List.png" width="360"/>
+  <img alt="Empty List" src="./prints/Empty.png" width="720"/>
+</p>
+<br/>
+<p align="center">
+  <img alt="List" src="./prints/List.png" width="720"/>
 </p>
 
 ## 🔖 Layout
